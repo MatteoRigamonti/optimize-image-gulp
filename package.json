@@ -1,0 +1,19 @@
+{
+  "name": "image-optimizer",
+  "version": "0.0.1",
+  "description": "Ottimizzatore d'immagini",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matteo Rigamonti",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-image-resize": "^0.13.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-webp": "^4.0.1"
+  }
+}
